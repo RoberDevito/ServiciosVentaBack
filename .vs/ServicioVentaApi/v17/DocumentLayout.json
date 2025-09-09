@@ -120,7 +120,7 @@
               "RelativeDocumentMoniker": "ServicioVentaApi\\Models\\Hamburguesa\\Dto\\UpdateHamburguesaDto.cs",
               "ToolTip": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Hamburguesa\\Dto\\UpdateHamburguesaDto.cs",
               "RelativeToolTip": "ServicioVentaApi\\Models\\Hamburguesa\\Dto\\UpdateHamburguesaDto.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T17:26:33.665Z",
               "EditorCaption": ""
@@ -135,8 +135,7 @@
               "RelativeToolTip": "ServicioVentaApi\\Models\\Costumers\\Dto\\UpdateCostumer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T17:26:30.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T17:26:30.626Z"
             },
             {
               "$type": "Document",
@@ -148,8 +147,7 @@
               "RelativeToolTip": "ServicioVentaApi\\Models\\Admins\\Dto\\CreateAdmin.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T17:24:15.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T17:24:15.336Z"
             },
             {
               "$type": "Document",
@@ -161,8 +159,7 @@
               "RelativeToolTip": "ServicioVentaApi\\Models\\Costumers\\Dto\\CreateCustomer.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T17:24:08.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T17:24:08.214Z"
             },
             {
               "$type": "Document",
@@ -174,8 +171,7 @@
               "RelativeToolTip": "ServicioVentaApi\\Models\\Costumers\\Dto\\AllCustomers.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T17:23:17.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T17:23:17.443Z"
             },
             {
               "$type": "Document",
@@ -187,8 +183,7 @@
               "RelativeToolTip": "ServicioVentaApi\\Models\\Costumers\\Costumers.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T17:20:41.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T17:20:41.602Z"
             },
             {
               "$type": "Document",
@@ -200,8 +195,7 @@
               "RelativeToolTip": "ServicioVentaApi\\Models\\Hamburguesa\\Dto\\CreateHamburguesaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T16:55:33.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T16:55:33.476Z"
             },
             {
               "$type": "Document",
@@ -213,8 +207,7 @@
               "RelativeToolTip": "ServicioVentaApi\\Models\\Admins\\Dto\\AllAdmins.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T16:55:29.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T16:55:29.602Z"
             },
             {
               "$type": "Document",
@@ -226,8 +219,7 @@
               "RelativeToolTip": "ServicioVentaApi\\Models\\Hamburguesa\\Dto\\AllHamburguesasDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T16:55:08.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T16:55:08.61Z"
             },
             {
               "$type": "Document",
@@ -239,8 +231,7 @@
               "RelativeToolTip": "ServicioVentaApi\\Models\\Admins\\Admins.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T16:52:27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T16:52:27Z"
             },
             {
               "$type": "Document",
@@ -252,8 +243,7 @@
               "RelativeToolTip": "ServicioVentaApi\\Models\\Hamburguesa\\Hamburguesa.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T23:42:41.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-07T23:42:41.513Z"
             }
           ]
         },

@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|c:\\users\\usuario\\onedrive\\desktop\\programacion\\serviciosventaback\\servicioventaapi\\services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|solutionrelative:servicioventaapi\\services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|c:\\users\\usuario\\onedrive\\desktop\\programacion\\serviciosventaback\\servicioventaapi\\services\\hamburguesaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|solutionrelative:servicioventaapi\\services\\hamburguesaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|c:\\users\\usuario\\onedrive\\desktop\\programacion\\serviciosventaback\\servicioventaapi\\models\\hamburguesa\\dto\\updatehamburguesadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|solutionrelative:servicioventaapi\\models\\hamburguesa\\dto\\updatehamburguesadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|c:\\users\\usuario\\onedrive\\desktop\\programacion\\serviciosventaback\\servicioventaapi\\utils\\validationerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|solutionrelative:servicioventaapi\\utils\\validationerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|c:\\users\\usuario\\onedrive\\desktop\\programacion\\serviciosventaback\\servicioventaapi\\controllers\\hamburguesacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|solutionrelative:servicioventaapi\\controllers\\hamburguesacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|c:\\users\\usuario\\onedrive\\desktop\\programacion\\serviciosventaback\\servicioventaapi\\models\\hamburguesa\\dto\\allhamburguesasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|solutionrelative:servicioventaapi\\models\\hamburguesa\\dto\\allhamburguesasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|c:\\users\\usuario\\onedrive\\desktop\\programacion\\serviciosventaback\\servicioventaapi\\models\\hamburguesa\\dto\\createhamburguesadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|solutionrelative:servicioventaapi\\models\\hamburguesa\\dto\\createhamburguesadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|c:\\users\\usuario\\onedrive\\desktop\\programacion\\serviciosventaback\\servicioventaapi\\utils\\httpmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|solutionrelative:servicioventaapi\\utils\\httpmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|c:\\users\\usuario\\onedrive\\desktop\\programacion\\serviciosventaback\\servicioventaapi\\models\\hamburguesa\\hamburguesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|solutionrelative:servicioventaapi\\models\\hamburguesa\\hamburguesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|c:\\users\\usuario\\onedrive\\desktop\\programacion\\serviciosventaback\\servicioventaapi\\config\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|solutionrelative:servicioventaapi\\config\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|c:\\users\\usuario\\onedrive\\desktop\\programacion\\serviciosventaback\\servicioventaapi\\config\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|solutionrelative:servicioventaapi\\config\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|c:\\users\\usuario\\onedrive\\desktop\\programacion\\serviciosventaback\\servicioventaapi\\controllers\\hamburguesacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|solutionrelative:servicioventaapi\\controllers\\hamburguesacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,78 +94,91 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidationErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\Utils\\ValidationErrorResponse.cs",
+              "RelativeDocumentMoniker": "ServicioVentaApi\\Utils\\ValidationErrorResponse.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\Utils\\ValidationErrorResponse.cs",
+              "RelativeToolTip": "ServicioVentaApi\\Utils\\ValidationErrorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T20:35:43.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HttpMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\Utils\\HttpMessage.cs",
+              "RelativeDocumentMoniker": "ServicioVentaApi\\Utils\\HttpMessage.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\Utils\\HttpMessage.cs",
+              "RelativeToolTip": "ServicioVentaApi\\Utils\\HttpMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T20:35:31.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mapping.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\Config\\Mapping.cs",
+              "RelativeDocumentMoniker": "ServicioVentaApi\\Config\\Mapping.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\Config\\Mapping.cs",
+              "RelativeToolTip": "ServicioVentaApi\\Config\\Mapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T20:09:10.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\Config\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ServicioVentaApi\\Config\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\Config\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ServicioVentaApi\\Config\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T01:56:14.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Services.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\Services\\Services.cs",
-              "RelativeDocumentMoniker": "ServicioVentaApi\\Services\\Services.cs",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\Services\\Services.cs",
-              "RelativeToolTip": "ServicioVentaApi\\Services\\Services.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Title": "HamburguesaServices.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\Services\\HamburguesaServices.cs",
+              "RelativeDocumentMoniker": "ServicioVentaApi\\Services\\HamburguesaServices.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\Services\\HamburguesaServices.cs",
+              "RelativeToolTip": "ServicioVentaApi\\Services\\HamburguesaServices.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAqwC0AAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T00:17:56.194Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "HamburguesaController.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\Controllers\\HamburguesaController.cs",
               "RelativeDocumentMoniker": "ServicioVentaApi\\Controllers\\HamburguesaController.cs",
               "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\Controllers\\HamburguesaController.cs",
               "RelativeToolTip": "ServicioVentaApi\\Controllers\\HamburguesaController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T00:12:00.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UpdateHamburguesaDto.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Hamburguesa\\Dto\\UpdateHamburguesaDto.cs",
-              "RelativeDocumentMoniker": "ServicioVentaApi\\Models\\Hamburguesa\\Dto\\UpdateHamburguesaDto.cs",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Hamburguesa\\Dto\\UpdateHamburguesaDto.cs",
-              "RelativeToolTip": "ServicioVentaApi\\Models\\Hamburguesa\\Dto\\UpdateHamburguesaDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T00:00:40.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateHamburguesaDto.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Hamburguesa\\Dto\\CreateHamburguesaDto.cs",
-              "RelativeDocumentMoniker": "ServicioVentaApi\\Models\\Hamburguesa\\Dto\\CreateHamburguesaDto.cs",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Hamburguesa\\Dto\\CreateHamburguesaDto.cs",
-              "RelativeToolTip": "ServicioVentaApi\\Models\\Hamburguesa\\Dto\\CreateHamburguesaDto.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAUwAgAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T23:51:59.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AllHamburguesasDto.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Hamburguesa\\Dto\\AllHamburguesasDto.cs",
-              "RelativeDocumentMoniker": "ServicioVentaApi\\Models\\Hamburguesa\\Dto\\AllHamburguesasDto.cs",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Hamburguesa\\Dto\\AllHamburguesasDto.cs",
-              "RelativeToolTip": "ServicioVentaApi\\Models\\Hamburguesa\\Dto\\AllHamburguesasDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T23:51:35.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Hamburguesa.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Hamburguesa\\Hamburguesa.cs",
               "RelativeDocumentMoniker": "ServicioVentaApi\\Models\\Hamburguesa\\Hamburguesa.cs",
               "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Hamburguesa\\Hamburguesa.cs",
               "RelativeToolTip": "ServicioVentaApi\\Models\\Hamburguesa\\Hamburguesa.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAsAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-07T23:42:41.513Z",
               "EditorCaption": ""

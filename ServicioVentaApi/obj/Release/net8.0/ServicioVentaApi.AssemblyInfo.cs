@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("ServicioVentaApi")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77629f9128721a57cd02a3d44f6f06c00b38d598")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8ae8934bc6c28c3541656a9661dcee122732352")]
 [assembly: System.Reflection.AssemblyProductAttribute("ServicioVentaApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ServicioVentaApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

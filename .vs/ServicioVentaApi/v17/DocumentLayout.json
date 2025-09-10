@@ -3,16 +3,55 @@
   "WorkspaceRootPath": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\",
   "Documents": [
     {
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|c:\\users\\bruno\\desktop\\sales_service_back\\serviciosventaback\\servicioventaapi\\models\\hamburguesa\\dto\\updatehamburguesadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|solutionrelative:servicioventaapi\\models\\hamburguesa\\dto\\updatehamburguesadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|c:\\users\\bruno\\desktop\\sales_service_back\\serviciosventaback\\servicioventaapi\\models\\costumers\\costumers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|solutionrelative:servicioventaapi\\models\\costumers\\costumers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|c:\\users\\bruno\\desktop\\sales_service_back\\serviciosventaback\\servicioventaapi\\models\\costumers\\dto\\createcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|solutionrelative:servicioventaapi\\models\\costumers\\dto\\createcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|c:\\users\\bruno\\desktop\\sales_service_back\\serviciosventaback\\servicioventaapi\\models\\costumers\\dto\\updatecostumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|solutionrelative:servicioventaapi\\models\\costumers\\dto\\updatecostumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|c:\\users\\bruno\\desktop\\sales_service_back\\serviciosventaback\\servicioventaapi\\models\\costumers\\dto\\allcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|solutionrelative:servicioventaapi\\models\\costumers\\dto\\allcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|c:\\users\\bruno\\desktop\\sales_service_back\\serviciosventaback\\servicioventaapi\\models\\admins\\dto\\createadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|solutionrelative:servicioventaapi\\models\\admins\\dto\\createadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> 6c9a1eb6dac6552fb256ea1aaf191eccf9e5fa2a
       "AbsoluteMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|c:\\users\\bruno\\desktop\\sales_service_back\\serviciosventaback\\servicioventaapi\\models\\hamburguesa\\dto\\allhamburguesasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|solutionrelative:servicioventaapi\\models\\hamburguesa\\dto\\allhamburguesasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|c:\\users\\bruno\\desktop\\sales_service_back\\serviciosventaback\\servicioventaapi\\models\\admins\\admins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|solutionrelative:servicioventaapi\\models\\admins\\admins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> 6c9a1eb6dac6552fb256ea1aaf191eccf9e5fa2a
       "AbsoluteMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|c:\\users\\bruno\\desktop\\sales_service_back\\serviciosventaback\\servicioventaapi\\models\\hamburguesa\\dto\\createhamburguesadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|solutionrelative:servicioventaapi\\models\\hamburguesa\\dto\\createhamburguesadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|c:\\users\\bruno\\desktop\\sales_service_back\\serviciosventaback\\servicioventaapi\\models\\hamburguesa\\dto\\updatehamburguesadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|solutionrelative:servicioventaapi\\models\\hamburguesa\\dto\\updatehamburguesadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|c:\\users\\bruno\\desktop\\sales_service_back\\serviciosventaback\\servicioventaapi\\models\\admins\\dto\\alladmins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|solutionrelative:servicioventaapi\\models\\admins\\dto\\alladmins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 6c9a1eb6dac6552fb256ea1aaf191eccf9e5fa2a
     },
     {
       "AbsoluteMoniker": "D:0:0:{751487D1-E707-4980-8DE3-CED82C9A6B8E}|ServicioVentaApi\\ServicioVentaApi.csproj|c:\\users\\bruno\\desktop\\sales_service_back\\serviciosventaback\\servicioventaapi\\models\\hamburguesa\\hamburguesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +73,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 18,
+=======
+          "SelectedChildIndex": 14,
+>>>>>>> 6c9a1eb6dac6552fb256ea1aaf191eccf9e5fa2a
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,6 +137,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 4,
               "Title": "Services.cs",
               "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\Services\\Services.cs",
@@ -119,11 +163,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+=======
+              "DocumentIndex": 0,
+>>>>>>> 6c9a1eb6dac6552fb256ea1aaf191eccf9e5fa2a
               "Title": "UpdateHamburguesaDto.cs",
               "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Hamburguesa\\Dto\\UpdateHamburguesaDto.cs",
               "RelativeDocumentMoniker": "ServicioVentaApi\\Models\\Hamburguesa\\Dto\\UpdateHamburguesaDto.cs",
               "ToolTip": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Hamburguesa\\Dto\\UpdateHamburguesaDto.cs",
               "RelativeToolTip": "ServicioVentaApi\\Models\\Hamburguesa\\Dto\\UpdateHamburguesaDto.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T17:26:33.665Z"
@@ -151,11 +199,17 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T16:55:08.61Z",
+=======
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:26:33.665Z",
+>>>>>>> 6c9a1eb6dac6552fb256ea1aaf191eccf9e5fa2a
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+<<<<<<< HEAD
               "Title": "Hamburguesa.cs",
               "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Hamburguesa\\Hamburguesa.cs",
               "RelativeDocumentMoniker": "ServicioVentaApi\\Models\\Hamburguesa\\Hamburguesa.cs",
@@ -163,6 +217,123 @@
               "RelativeToolTip": "ServicioVentaApi\\Models\\Hamburguesa\\Hamburguesa.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+=======
+              "Title": "UpdateCostumer.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Costumers\\Dto\\UpdateCostumer.cs",
+              "RelativeDocumentMoniker": "ServicioVentaApi\\Models\\Costumers\\Dto\\UpdateCostumer.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Costumers\\Dto\\UpdateCostumer.cs",
+              "RelativeToolTip": "ServicioVentaApi\\Models\\Costumers\\Dto\\UpdateCostumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:26:30.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Admins\\Dto\\CreateAdmin.cs",
+              "RelativeDocumentMoniker": "ServicioVentaApi\\Models\\Admins\\Dto\\CreateAdmin.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Admins\\Dto\\CreateAdmin.cs",
+              "RelativeToolTip": "ServicioVentaApi\\Models\\Admins\\Dto\\CreateAdmin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:24:15.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Costumers\\Dto\\CreateCustomer.cs",
+              "RelativeDocumentMoniker": "ServicioVentaApi\\Models\\Costumers\\Dto\\CreateCustomer.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Costumers\\Dto\\CreateCustomer.cs",
+              "RelativeToolTip": "ServicioVentaApi\\Models\\Costumers\\Dto\\CreateCustomer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:24:08.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AllCustomers.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Costumers\\Dto\\AllCustomers.cs",
+              "RelativeDocumentMoniker": "ServicioVentaApi\\Models\\Costumers\\Dto\\AllCustomers.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Costumers\\Dto\\AllCustomers.cs",
+              "RelativeToolTip": "ServicioVentaApi\\Models\\Costumers\\Dto\\AllCustomers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:23:17.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Costumers.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Costumers\\Costumers.cs",
+              "RelativeDocumentMoniker": "ServicioVentaApi\\Models\\Costumers\\Costumers.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Costumers\\Costumers.cs",
+              "RelativeToolTip": "ServicioVentaApi\\Models\\Costumers\\Costumers.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:20:41.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateHamburguesaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Hamburguesa\\Dto\\CreateHamburguesaDto.cs",
+              "RelativeDocumentMoniker": "ServicioVentaApi\\Models\\Hamburguesa\\Dto\\CreateHamburguesaDto.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Hamburguesa\\Dto\\CreateHamburguesaDto.cs",
+              "RelativeToolTip": "ServicioVentaApi\\Models\\Hamburguesa\\Dto\\CreateHamburguesaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:55:33.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AllAdmins.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Admins\\Dto\\AllAdmins.cs",
+              "RelativeDocumentMoniker": "ServicioVentaApi\\Models\\Admins\\Dto\\AllAdmins.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Admins\\Dto\\AllAdmins.cs",
+              "RelativeToolTip": "ServicioVentaApi\\Models\\Admins\\Dto\\AllAdmins.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:55:29.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AllHamburguesasDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Hamburguesa\\Dto\\AllHamburguesasDto.cs",
+              "RelativeDocumentMoniker": "ServicioVentaApi\\Models\\Hamburguesa\\Dto\\AllHamburguesasDto.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Hamburguesa\\Dto\\AllHamburguesasDto.cs",
+              "RelativeToolTip": "ServicioVentaApi\\Models\\Hamburguesa\\Dto\\AllHamburguesasDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:55:08.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admins.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Admins\\Admins.cs",
+              "RelativeDocumentMoniker": "ServicioVentaApi\\Models\\Admins\\Admins.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Admins\\Admins.cs",
+              "RelativeToolTip": "ServicioVentaApi\\Models\\Admins\\Admins.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:52:27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Hamburguesa.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Hamburguesa\\Hamburguesa.cs",
+              "RelativeDocumentMoniker": "ServicioVentaApi\\Models\\Hamburguesa\\Hamburguesa.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\Models\\Hamburguesa\\Hamburguesa.cs",
+              "RelativeToolTip": "ServicioVentaApi\\Models\\Hamburguesa\\Hamburguesa.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+>>>>>>> 6c9a1eb6dac6552fb256ea1aaf191eccf9e5fa2a
               "WhenOpened": "2025-09-07T23:42:41.513Z"
             }
           ]

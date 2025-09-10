@@ -102,8 +102,7 @@
               "RelativeToolTip": "ServicioVentaApi\\Services\\Services.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T23:51:01.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T23:51:01.791Z"
             },
             {
               "$type": "Document",
@@ -115,8 +114,7 @@
               "RelativeToolTip": "ServicioVentaApi\\Controllers\\HamburguesaController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T23:50:17.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T23:50:17.166Z"
             },
             {
               "$type": "Document",
@@ -128,8 +126,7 @@
               "RelativeToolTip": "ServicioVentaApi\\Models\\Hamburguesa\\Dto\\UpdateHamburguesaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T17:26:33.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T17:26:33.665Z"
             },
             {
               "$type": "Document",
@@ -141,8 +138,7 @@
               "RelativeToolTip": "ServicioVentaApi\\Models\\Hamburguesa\\Dto\\CreateHamburguesaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T16:55:33.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T16:55:33.476Z"
             },
             {
               "$type": "Document",
@@ -167,8 +163,7 @@
               "RelativeToolTip": "ServicioVentaApi\\Models\\Hamburguesa\\Hamburguesa.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T23:42:41.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-07T23:42:41.513Z"
             }
           ]
         },

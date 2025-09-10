@@ -40,7 +40,7 @@ namespace ServicioVentaApi.Services
             return hamburguesas;
         }
 
-        public async Task<Hamburguesa> CreateOne(CreateHamburguesaDto auto)
+       /* public async Task<Hamburguesa> CreateOne(CreateHamburguesaDto auto)
         {
             var a = _mapper.Map<Hamburguesa>(auto);
             var estado = await _estadoServices.GetOneByName("Disponible");
@@ -50,7 +50,7 @@ namespace ServicioVentaApi.Services
             await _db.SaveChangesAsync();
             return a;
 
-        }
+        }*/
 
         public async Task<Hamburguesa> GetOneById(int id)
         {

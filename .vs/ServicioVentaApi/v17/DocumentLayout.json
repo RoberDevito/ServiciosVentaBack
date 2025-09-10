@@ -102,8 +102,7 @@
               "RelativeToolTip": "ServicioVentaApi\\Utils\\ValidationErrorResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T20:35:43.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T20:35:43.899Z"
             },
             {
               "$type": "Document",
@@ -115,8 +114,7 @@
               "RelativeToolTip": "ServicioVentaApi\\Utils\\HttpMessage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T20:35:31.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T20:35:31.088Z"
             },
             {
               "$type": "Document",
@@ -128,8 +126,7 @@
               "RelativeToolTip": "ServicioVentaApi\\Config\\Mapping.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T20:09:10.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T20:09:10.175Z"
             },
             {
               "$type": "Document",
@@ -141,8 +138,7 @@
               "RelativeToolTip": "ServicioVentaApi\\Config\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T01:56:14.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T01:56:14.736Z"
             },
             {
               "$type": "Document",
@@ -152,7 +148,7 @@
               "RelativeDocumentMoniker": "ServicioVentaApi\\Services\\HamburguesaServices.cs",
               "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\Services\\HamburguesaServices.cs",
               "RelativeToolTip": "ServicioVentaApi\\Services\\HamburguesaServices.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAqwC0AAABKAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAqwDQAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T00:17:56.194Z",
               "EditorCaption": ""
@@ -167,8 +163,7 @@
               "RelativeToolTip": "ServicioVentaApi\\Controllers\\HamburguesaController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T00:12:00.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T00:12:00.48Z"
             },
             {
               "$type": "Document",
@@ -180,8 +175,7 @@
               "RelativeToolTip": "ServicioVentaApi\\Models\\Hamburguesa\\Hamburguesa.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAQwAsAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T23:42:41.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-07T23:42:41.513Z"
             }
           ]
         },

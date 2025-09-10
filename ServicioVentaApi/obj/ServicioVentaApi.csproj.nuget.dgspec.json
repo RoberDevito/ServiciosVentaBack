@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\ServicioVentaApi.csproj": {}
+    "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\ServicioVentaApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\ServicioVentaApi.csproj": {
+    "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\ServicioVentaApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\ServicioVentaApi.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\ServicioVentaApi.csproj",
         "projectName": "ServicioVentaApi",
-        "projectPath": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\ServicioVentaApi.csproj",
-        "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruno\\Desktop\\Sales_Service_back\\ServiciosVentaBack\\ServicioVentaApi\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\ServicioVentaApi.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programacion\\ServiciosVentaBack\\ServicioVentaApi\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -43,13 +39,16 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[15.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.9, )"
@@ -88,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

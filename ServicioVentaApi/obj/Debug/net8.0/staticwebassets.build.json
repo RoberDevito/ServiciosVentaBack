@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "KzbvoFv7wr4s7o3ANtlGv480nepltDbVfXdkrh4y4pE=",
+  "Hash": "QhdfY+AbLJy9DqlFexCVKEV7oXcwz3doyOvAD4JIhoE=",
   "Source": "ServicioVentaApi",
   "BasePath": "_content/ServicioVentaApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }
